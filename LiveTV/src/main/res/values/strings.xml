@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LiveTv</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string-array name="nav_drawer_item">
+        <item>About us</item>
+        <item>Rate us</item>
+        <item>contact us</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="local_channel">LOCAL CHANNEL</string>
+    <string name="news_channel">NEWS CHANNEL</string>
+    <string name="sport_channel">SPORT CHANEEL</string>
+    <string name="movie_channel">MOVIE CHANEEL</string>
+    <string name="music_channel">MUSIC CHANNEL</string>
+    <string name="kids_channel">KIDS CHANNEL</string>
+    <string name="video_channel">VIDEO CHANNEL</string>
+    <string name="adult_channel">ADULT CHANNEL</string>
+    <string name="adult_channel_warning">please do not click on it if you are under 18</string>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-0664570763252260/3326522424</string>
+    <string name="interstitial_full_screen">ca-app-pub-0664570763252260/1769900428</string>
+</resources>

@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/img_nav"
+        android:layout_width="@dimen/threezero"
+        android:layout_height="@dimen/fourzero"
+        android:layout_centerVertical="true"
+        android:layout_margin="@dimen/onezero"
+        android:background="@drawable/ic_launcher"
+        android:clickable="true" />
+
+
+    <TextView
+        android:id="@+id/txt_categoryName"
+        android:layout_width="@dimen/twozerozero"
+        android:layout_height="@dimen/twozero"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:paddingLeft="@dimen/three"
+        android:singleLine="true"
+        android:text="Filla TV"
+        android:textSize="@dimen/onefive" />
+
+
+</RelativeLayout>

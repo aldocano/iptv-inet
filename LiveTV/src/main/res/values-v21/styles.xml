@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="PopupMenu.MyStyle" parent="android:Widget.PopupMenu">
+        <item name="android:popupBackground">@drawable/popup_bg</item>
+    </style>
+
+    <style name="PopupMenu" parent="@android:style/Widget.PopupMenu">
+        <item name="android:popupBackground">@android:color/holo_blue_bright</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowContentTransitions" tools:targetApi="lollipop">true</item>
+        <item name="android:windowEnterTransition">@transition/activity_fade</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:actionMenuTextColor">@color/white</item>
+        <item name="android:popupBackground">@style/PopupMenu</item>
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+</resources>

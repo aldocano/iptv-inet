@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/res/merged/debug/menu/removefromfavourite.xml",
+        "source": "/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/src/main/res/menu/removefromfavourite.xml"
+    },
+    {
+        "merged": "/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/res/merged/debug/menu/popup.xml",
+        "source": "/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/src/main/res/menu/popup.xml"
+    }
+]

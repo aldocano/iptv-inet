@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#CBCBCB</color>
+    <color name="titlebar">#06AEED</color>
+    <color name="orange">#FA0</color>
+    <color name="text_tab_selected">#e82a04</color>
+    <color name="text_tab_unselected">#20182d</color>
+    <color name="view_clr_nav">#f5e6e6</color>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_action_search.png.flat",
+        "source": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_action_search.png"
+    }
+]

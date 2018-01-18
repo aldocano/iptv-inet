@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/libs/com-uvxghdmx-ucuwreks167365.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8cdd907c9c986ea89d39950bb84d14caadb4f2fe">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com-uvxghdmx-ucuwreks167365_ed5a6fa1ef08d4567d4525d3c0bd768bdddfaa0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_74a1320c41b164a70a2360891c9ca1cc7eaf74e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_c34efd0eedd12c6b6d1d2982c0858c4451cd0c59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_5a61e082014d84a440ebb5d873698322539109a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.0.0_5b38e6ea8f8e7d528cf1af26e6f7323598e4d8b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/org.apache.http.legacy_56f5523276c80fd53636fe979d1fc5e2b3354cc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/android-async-http-1.4.6_0d8678aa7fc001aa9e5ea493b9eac09d24d48e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/SDK/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_cd07cec192b6d237ef9cd8452ca3ce801f3753e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_b1782fad45ed2b421d21d6cb8ddcd4e954e0835a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.balysv-material-ripple-1.0.2_39e81ac3f23ec0f972923f7879fc8133977f3b46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_176b5acfa9dbdd7da6f537410926a6bfd171fe09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_30061e8464a6bf70de49dd9eb581de4e7cfc782e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3_a056abd17973b0583211a2570db3c82676e8adc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_3287929c309cbcfb78730480562577aa782cff7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.0.0_bad82521f9bd9aa308d7767249e7fd583b85e9cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_cc69e955406668dac4275241bf1c9a35670cf447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_fe2cfa035589a7a0f0fa8e720a33ef739f680c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/LiveTv/rateMyApp/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="96505f89499bfc9ef36ce0e66105b636c5b817fa">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/LiveTv-rateMyApp-unspecified_3931b6d304e812e604dfb6493041195276687359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_0a2b65d1541abe72dfe91eb07621cc17922e20ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_8a048546211d96bad70db8a2f0fbbf712988b39f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_b49fe195eb193eded26bce3d43823ff4f1329cb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_1cf20b337d00a6dc97a95758d25d6f1c8715cbc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/creativeinfoway2/Downloads/LiveTv/LiveTV/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_fa32acc311ba3d498f38ce0a12e459bc61b4cf68.jar" />
+    </item>
+
+</items>

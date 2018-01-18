@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.balysv.materialripple.MaterialRippleLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/onezerozero"
+    android:id="@+id/ripple_drawer">
+
+    <RelativeLayout
+        android:id="@+id/rel_drawer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/twozero"
+        android:background="@drawable/ripple_effect">
+
+        <!--<ImageView-->
+        <!--android:layout_width="@dimen/fourzero"-->
+        <!--android:layout_height="?android:actionBarSize" -->
+        <!--android:src="@drawable/ic_launcher"-->
+        <!--android:layout_alignParentStart="true"-->
+        <!--android:layout_toLeftOf="@+id/title"-->
+        <!--android:id="@+id/img_drawer"/>-->
+        <!---->
+        <!--<TextView-->
+        <!--android:id="@+id/title"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="?android:actionBarSize"-->
+        <!--android:layout_toRightOf="@+id/img_drawer"-->
+        <!--android:textAppearance="?android:attr/textAppearanceListItemSmall" />-->
+
+        <ImageView
+            android:id="@+id/img_drawer"
+            android:layout_width="@dimen/threezero"
+            android:layout_height="@dimen/threezero"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="14dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:paddingBottom="@dimen/two"
+            android:paddingTop="@dimen/two"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/txt_drawer"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/twozero"
+            android:layout_alignTop="@+id/img_drawer"
+            android:layout_marginStart="37dp"
+            android:layout_marginTop="@dimen/seven"
+            android:layout_toEndOf="@+id/img_drawer"
+            android:gravity="center_vertical"
+            android:text="drawer item"
+            android:textColor="@color/black" />
+
+        <View
+            android:id="@+id/view"
+            android:layout_width="match_parent"
+            android:layout_height="0.2dp"
+            android:layout_below="@+id/img_drawer"
+            android:layout_marginRight="@dimen/twozero"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@+id/img_drawer"
+            android:background="@color/view_clr_nav" />
+    </RelativeLayout>
+</com.balysv.materialripple.MaterialRippleLayout>

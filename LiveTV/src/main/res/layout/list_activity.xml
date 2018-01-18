@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rel_layout_listview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="?android:actionBarSize"-->
+    <!--android:background="@color/black"-->
+    <!--android:padding="@dimen/onezero">-->
+    <!--&lt;!&ndash;android:background="@drawable/background_border"&ndash;&gt;-->
+    <!--<TextView-->
+    <!--android:id="@+id/txt_head"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:textAppearance="?android:attr/textAppearanceMedium"-->
+    <!--android:textColor="#000000" />-->
+
+    <!--<ImageView-->
+    <!--android:id="@+id/btn_back"-->
+    <!--android:layout_width="@dimen/threezero"-->
+    <!--android:layout_height="@dimen/threezero"-->
+    <!--android:layout_alignParentStart="true"-->
+    <!--android:layout_alignParentTop="true"-->
+    <!--android:background="@drawable/back_icon" />-->
+    <!--</RelativeLayout>-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="?android:actionBarSize">
+
+
+        <ListView
+            android:id="@+id/listView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/img_channel"
+            android:elevation="@dimen/five" />
+
+        <ImageView
+            android:id="@+id/img_channel"
+            style="@style/AppTheme"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/twozerozero"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:scaleType="centerCrop"
+            android:transitionName="profile" />
+
+        <com.balysv.materialripple.MaterialRippleLayout
+            android:layout_width="@dimen/threezero"
+            android:layout_height="@dimen/threezero"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="11dp"
+            android:layout_above="@+id/img_icon">
+            <ImageView
+                android:id="@+id/img_back"
+                android:layout_width="@dimen/threezero"
+                android:layout_height="@dimen/threezero"
+                android:background="@drawable/back_icon" />
+        </com.balysv.materialripple.MaterialRippleLayout>
+
+        <com.LiveTv.CustomTxtview
+            android:id="@+id/txt_channel_listActivity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/listView1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="45dp"
+            android:gravity="center"
+            android:text="channel name"
+            android:textColor="@color/white"
+            android:transitionName="channel_name" />
+
+        <ImageView
+            android:id="@+id/img_icon"
+            android:layout_width="@dimen/sevenzero"
+            android:layout_height="@dimen/sevenzero"
+            android:layout_above="@+id/txt_channel_listActivity"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/five"
+            android:background="@drawable/video_icon"
+            android:transitionName="icon" />
+
+
+    </RelativeLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/img_add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_home_footer"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="@dimen/threezero">
+    </com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

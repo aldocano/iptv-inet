@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/onetwofive"
+    android:orientation="vertical">
+
+    <!--style="@style/AppTheme"-->
+
+    <TextView
+        android:id="@+id/list_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_channel"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:visibility="gone" />
+
+
+    <!--<ImageView-->
+    <!--android:id="@+id/img_icon"-->
+    <!--android:layout_width="@dimen/sixzero"-->
+    <!--android:layout_height="@dimen/sixzero"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:layout_marginLeft="@dimen/threezero"-->
+    <!--android:layout_marginRight="@dimen/onezero"-->
+    <!--android:layout_marginStart="32dp"-->
+    <!--android:layout_toEndOf="@+id/list_item"-->
+    <!--android:transitionName="icon" />-->
+    <!--<TextView-->
+    <!--android:id="@+id/textView2"-->
+    <!--android:layout_width="@dimen/sevenzero"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignBottom="@+id/img_icon"-->
+    <!--android:layout_alignStart="@+id/txt_channel"-->
+    <!--android:layout_marginBottom="12dp"-->
+    <!--android:background="@drawable/txt_bg"-->
+    <!--android:gravity="center"-->
+    <!--android:text="channel name" />-->
+
+    <!--<com.fillatv.CustomTxtview-->
+    <!--android:id="@+id/txt_channel"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignTop="@+id/img_icon"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:text="Chaneel "-->
+    <!--android:textSize="@dimen/onesix"-->
+    <!--android:transitionName="channel_name" />-->
+
+    <!--<ImageView-->
+    <!--android:id="@+id/img_channel"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="@dimen/onetwofive"-->
+    <!--android:background="@drawable/movie_channel"-->
+    <!--android:transitionName="profile"-->
+    <!--android:layout_alignParentTop="true"-->
+    <!--android:layout_toEndOf="@+id/list_item" />-->
+
+    <!--<com.fillatv.CustomTxtview-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:id="@+id/txt_channel"-->
+    <!--android:text="channel name"-->
+    <!--android:layout_alignTop="@+id/img_icon"-->
+    <!--android:layout_centerHorizontal="true" />-->
+
+    <!--<TextView-->
+    <!--android:layout_width="@dimen/fourzero"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="@drawable/txt_bg"-->
+    <!--android:layout_alignBottom="@+id/img_icon"-->
+    <!--android:layout_alignStart="@+id/txt_channel"-->
+    <!--android:layout_marginBottom="15dp"-->
+    <!--android:id="@+id/textView3" />-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="@dimen/sixzero"-->
+    <!--android:layout_height="@dimen/sixzero"-->
+    <!--android:layout_below="@+id/textView3"-->
+    <!--android:layout_toStartOf="@+id/textView3"-->
+    <!--android:layout_marginEnd="33dp"-->
+    <!--android:id="@+id/img_icon"-->
+    <!--android:background="@drawable/adult_icon"/>-->
+<com.balysv.materialripple.MaterialRippleLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height= "match_parent"
+        android:background="@drawable/adult_channel"
+        android:id="@+id/img_channel"/>
+</com.balysv.materialripple.MaterialRippleLayout>
+    <ImageView
+        android:layout_width="@dimen/sevenzero"
+        android:layout_height="@dimen/sevenzero"
+        android:background="@drawable/adult_icon"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/list_item"
+        android:layout_marginStart="44dp"
+        android:id="@+id/img_icon" />
+
+    <com.LiveTv.CustomTxtview
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="channel name"
+        android:id="@+id/txt_channel"
+        android:layout_marginStart="38dp"
+        android:textSize="@dimen/onesix"
+        android:textColor="@color/white"
+        android:layout_alignTop="@+id/img_icon"
+        android:layout_toEndOf="@+id/img_icon" />
+
+    <TextView
+        android:layout_width="@dimen/sevenzero"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:background="@drawable/txt_bg"
+        android:id="@+id/txt_channel_count"
+        android:layout_marginBottom="11dp"
+        android:gravity="center"
+        android:layout_alignBottom="@+id/img_icon"
+        android:layout_alignStart="@+id/txt_channel"
+        android:padding="@dimen/three"/>
+
+    <com.LiveTv.CustomTxtview
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/adult_channel_warning"
+        android:id="@+id/txt_adult_channel_warnning"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/five"
+        android:visibility="visible"/>
+</RelativeLayout>

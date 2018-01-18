@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/layout_main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/layout_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?android:actionBarSize"
+                android:background="@color/white">
+
+                <com.LiveTv.CustomTxtview
+                    android:id="@+id/txt_categoryName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/twozero"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/ripple_effect"
+                    android:paddingLeft="@dimen/three"
+                    android:singleLine="true"
+                    android:text="Live"
+                    android:textColor="@color/text_tab_selected"
+                    android:textSize="@dimen/oneeight" />
+
+                <com.LiveTv.CustomTxtview
+                    android:id="@+id/txt_category_Tv"
+                    android:layout_width="@dimen/onezerozero"
+                    android:layout_height="@dimen/twozero"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/txt_categoryName"
+                    android:background="@drawable/ripple_effect"
+                    android:paddingLeft="@dimen/three"
+                    android:singleLine="true"
+                    android:text="TV"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/oneeight" />
+
+                <ImageView
+                    android:id="@+id/img_nav"
+                    android:layout_width="@dimen/fourzero"
+                    android:layout_height="@dimen/fourzero"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/onezero"
+                    android:background="@drawable/menu_icon"
+                    android:clickable="true" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.2dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_below="@+id/img_nav"
+                    android:layout_marginLeft="@dimen/fourzero"
+                    android:layout_marginTop="@dimen/four"
+                    android:background="@color/gray" />
+
+            </RelativeLayout>
+
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewpager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_below="@+id/layout_toolbar"
+                android:layout_marginBottom="?android:actionBarSize"
+                android:layout_marginTop="?android:actionBarSize">
+
+                <android.support.v4.view.PagerTabStrip
+                    android:id="@+id/pagerStrip"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/fourzero"
+                    android:layout_gravity="top"
+                    android:layout_marginTop="?android:actionBarSize"
+                    android:background="@color/white"
+                    android:paddingBottom="7dp"
+                    android:textAppearance="@style/PagerTabStripText"
+                    android:theme="@style/ThemeOverlay.AppCompat.Dark" />
+
+            </android.support.v4.view.ViewPager>
+
+            <FrameLayout
+                android:id="@+id/frame_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_below="@+id/viewpager" />
+
+        </RelativeLayout>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/left_drawer"
+            android:layout_width="@dimen/twosevenzero"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="@color/white" />
+
+    </android.support.v4.widget.DrawerLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/img_add"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_home_footer"></com.google.android.gms.ads.AdView>
+
+
+</RelativeLayout>

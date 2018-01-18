@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,242",
+                        "endColumns": "46,139,57",
+                        "endOffsets": "97,237,295"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\bundles\\debug\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        }
+    ]
+}

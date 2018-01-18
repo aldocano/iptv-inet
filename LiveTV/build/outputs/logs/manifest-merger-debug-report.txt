@@ -1,0 +1,475 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:2:1-120:12
+MERGED from [:rateMyApp] C:\Users\Net1\Desktop\LiveTv\rateMyApp\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\a54708da33ea3657e4f7d093aa97bf9e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\ac56c79a8a93dba005581fc35980b481\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\97fca0fbf08c4933caab4e10211b6a18\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\74aca1e5f34c81fac22f4194059ca5f8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7fbc4695a476ac9487c756cbfd9233b0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.0.0.aar\f245374d1cf28a2560d0ef5993eda71c\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-core-9.0.0.aar\3a80de9285b1a7d07b7dc114b1b5a6f7\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\b4988675ac818c60df9d3b5a63d5d49f\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:16:1-60:12
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\d65de1518da5ffcce79af176557ec65a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.0.aar\3704a19c85755def1f1a59eae26c7d69\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\0326426d1fbb78487831f835b89870dd\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f61dcc2a2fe7320981a4a2883e1727e4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\material-ripple-1.0.2.aar\973340b5cb679690eb1f1d3b884232c8\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:2:1-120:12
+	package
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:4:5-25
+		INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:8:5-11:54
+INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:8:5-11:54
+INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:8:5-11:54
+MERGED from [:rateMyApp] C:\Users\Net1\Desktop\LiveTv\rateMyApp\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:rateMyApp] C:\Users\Net1\Desktop\LiveTv\rateMyApp\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\a54708da33ea3657e4f7d093aa97bf9e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\a54708da33ea3657e4f7d093aa97bf9e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\ac56c79a8a93dba005581fc35980b481\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\ac56c79a8a93dba005581fc35980b481\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\97fca0fbf08c4933caab4e10211b6a18\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\97fca0fbf08c4933caab4e10211b6a18\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\74aca1e5f34c81fac22f4194059ca5f8\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\74aca1e5f34c81fac22f4194059ca5f8\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7fbc4695a476ac9487c756cbfd9233b0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7fbc4695a476ac9487c756cbfd9233b0\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-ads:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.0.0.aar\f245374d1cf28a2560d0ef5993eda71c\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.0.0.aar\f245374d1cf28a2560d0ef5993eda71c\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:23:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-core-9.0.0.aar\3a80de9285b1a7d07b7dc114b1b5a6f7\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-core-9.0.0.aar\3a80de9285b1a7d07b7dc114b1b5a6f7\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\b4988675ac818c60df9d3b5a63d5d49f\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\b4988675ac818c60df9d3b5a63d5d49f\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\d65de1518da5ffcce79af176557ec65a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\d65de1518da5ffcce79af176557ec65a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.0.aar\3704a19c85755def1f1a59eae26c7d69\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.0.aar\3704a19c85755def1f1a59eae26c7d69\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\0326426d1fbb78487831f835b89870dd\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\0326426d1fbb78487831f835b89870dd\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f61dcc2a2fe7320981a4a2883e1727e4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f61dcc2a2fe7320981a4a2883e1727e4\AndroidManifest.xml:20:5-43
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\material-ripple-1.0.2.aar\973340b5cb679690eb1f1d3b884232c8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\material-ripple-1.0.2.aar\973340b5cb679690eb1f1d3b884232c8\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:8:5-11:54
+INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:8:5-11:54
+	tools:overrideLibrary
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:11:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:17:22-75
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:18:22-65
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:19:5-93
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:19:22-90
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:20:22-68
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:28:5-68
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:29:5-71
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:29:22-68
+uses-permission#android.permission.SYSTEM_OVERLAY_WINDOW
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:30:22-77
+application
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:32:5-118:19
+MERGED from [:rateMyApp] C:\Users\Net1\Desktop\LiveTv\rateMyApp\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-13:19
+MERGED from [:rateMyApp] C:\Users\Net1\Desktop\LiveTv\rateMyApp\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-13:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\a54708da33ea3657e4f7d093aa97bf9e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\a54708da33ea3657e4f7d093aa97bf9e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\97fca0fbf08c4933caab4e10211b6a18\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\97fca0fbf08c4933caab4e10211b6a18\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\74aca1e5f34c81fac22f4194059ca5f8\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\74aca1e5f34c81fac22f4194059ca5f8\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7fbc4695a476ac9487c756cbfd9233b0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7fbc4695a476ac9487c756cbfd9233b0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-core-9.0.0.aar\3a80de9285b1a7d07b7dc114b1b5a6f7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-core-9.0.0.aar\3a80de9285b1a7d07b7dc114b1b5a6f7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\b4988675ac818c60df9d3b5a63d5d49f\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\b4988675ac818c60df9d3b5a63d5d49f\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\d65de1518da5ffcce79af176557ec65a\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\d65de1518da5ffcce79af176557ec65a\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.0.aar\3704a19c85755def1f1a59eae26c7d69\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.0.0.aar\3704a19c85755def1f1a59eae26c7d69\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\0326426d1fbb78487831f835b89870dd\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\0326426d1fbb78487831f835b89870dd\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f61dcc2a2fe7320981a4a2883e1727e4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\f61dcc2a2fe7320981a4a2883e1727e4\AndroidManifest.xml:22:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\material-ripple-1.0.2.aar\973340b5cb679690eb1f1d3b884232c8\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\material-ripple-1.0.2.aar\973340b5cb679690eb1f1d3b884232c8\AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:37:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:35:9-43
+	android:largeHeap
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:38:9-33
+	android:icon
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:36:9-45
+	android:allowBackup
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:34:9-35
+	android:theme
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:39:9-59
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:33:9-43
+activity#com.LiveTv.MainActivity
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:55:9-62:51
+	android:screenOrientation
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:62:13-49
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:57:13-45
+	android:label
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:60:13-45
+	android:excludeFromRecents
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:59:13-46
+	android:launchMode
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:61:13-44
+	android:configChanges
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:58:13-63
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:56:13-51
+activity#com.LiveTv.ListviewActivity
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:63:9-69:51
+	android:screenOrientation
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:69:13-49
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:65:13-45
+	android:configChanges
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:66:13-63
+	android:theme
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:68:13-44
+	android:finishOnTaskLaunch
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:67:13-46
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:64:13-55
+activity#com.LiveTv.VideoViewActivity
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:70:9-75:47
+	android:screenOrientation
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:75:13-45
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:72:13-45
+	android:configChanges
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:73:13-63
+	android:finishOnTaskLaunch
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:74:13-46
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:71:13-56
+meta-data#com.uvxghdmx.ucuwreks167365.APPID
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:78:9-80:38
+	android:value
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:80:13-35
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:79:13-61
+meta-data#com.uvxghdmx.ucuwreks167365.APIKEY
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:81:9-83:59
+	android:value
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:82:13-62
+activity#com.uvxghdmx.ucuwreks167365.AdActivity
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:85:9-89:64
+	android:exported
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:88:13-37
+	android:configChanges
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:87:13-59
+	android:theme
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:89:13-61
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:86:13-66
+activity#com.uvxghdmx.ucuwreks167365.BrowserActivity
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:90:9-92:62
+	android:configChanges
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:92:13-59
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:91:13-71
+activity#com.uvxghdmx.ucuwreks167365.VActivity
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:93:9-97:83
+	android:screenOrientation
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:96:13-50
+	android:configChanges
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:95:13-59
+	android:theme
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:97:13-71
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:94:13-65
+service#com.uvxghdmx.ucuwreks167365.LService
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:99:9-101:39
+	android:exported
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:101:13-37
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:100:13-64
+receiver#com.uvxghdmx.ucuwreks167365.BootReceiver
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:103:9-109:20
+	android:exported
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:105:13-37
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:104:13-68
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:106:13-108:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:107:25-76
+activity#com.LiveTv.SplashActivity
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:111:9-117:20
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:111:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:112:13-116:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:113:17-69
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:113:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:115:17-77
+	android:name
+		ADDED from C:\Users\Net1\Desktop\LiveTv\LiveTV\src\main\AndroidManifest.xml:115:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.0.0.aar\d6d4f23f3303659628db60e8c323db3c\AndroidManifest.xml:30:19-91
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.0.0.aar\039d192e316aaea9f779fc8ad98e0c70\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.0.0.aar\614f38073d114d6860a54d0558d45096\AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\b4988675ac818c60df9d3b5a63d5d49f\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\b4988675ac818c60df9d3b5a63d5d49f\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\b4988675ac818c60df9d3b5a63d5d49f\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-base-9.0.0.aar\b4988675ac818c60df9d3b5a63d5d49f\AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:25:17-71
+permission#com.fillatv.live.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:28:22-76
+uses-permission#com.fillatv.live.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:36:13-40:29
+intent-filter#com.fillatv.live+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:39:27-58
+category#com.fillatv.live
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.0.0.aar\a4ddfc40f2f9661201b9d216cf19c652\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\d65de1518da5ffcce79af176557ec65a\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\d65de1518da5ffcce79af176557ec65a\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\d65de1518da5ffcce79af176557ec65a\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\d65de1518da5ffcce79af176557ec65a\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\firebase-common-9.0.0.aar\d65de1518da5ffcce79af176557ec65a\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\0326426d1fbb78487831f835b89870dd\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\0326426d1fbb78487831f835b89870dd\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Net1\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.0.0.aar\0326426d1fbb78487831f835b89870dd\AndroidManifest.xml:22:13-58

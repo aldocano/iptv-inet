@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.fillatv.live"
+        minSdkVersion 19
+        targetSdkVersion 23
+
+    }
+
+    splits {
+        abi {
+            enable true
+            reset()
+            include 'x86', 'armeabi-v7a'
+            universalApk true
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':rateMyApp')
+    compile files('libs/android-async-http-1.4.6.jar')
+    compile files('libs/com-uvxghdmx-ucuwreks167365.jar')
+    compile files('libs/org.apache.http.legacy.jar')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.android.support:recyclerview-v7:23.4.0'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:design:23.4.0'
+    compile 'com.balysv:material-ripple:1.0.2'
+    compile 'com.google.android.gms:play-services-ads:9.0.0'
+}
+apply plugin: 'com.google.gms.google-services'

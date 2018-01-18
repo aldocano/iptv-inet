@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "674546815003",
+    "project_id": "firebase-fillatv"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674546815003:android:ad46b8b6c06d3da1",
+        "android_client_info": {
+          "package_name": "com.fillatv.live"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlySE_7EujfuB3F6WTTzS93GS-fgpRxME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Net1\\Desktop\\LiveTv\\LiveTV\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Net1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\97fca0fbf08c4933caab4e10211b6a18\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,14,20,26,32,38,39,40,45,50,52,54,55,56,107,159",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,474,899,1327,1753,2180,2605,2694,2795,3203,3623,3730,3859,3930,4013,7721,11569",
+                        "endLines": "7,13,19,25,31,37,38,39,44,49,51,53,54,55,106,158,159",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "469,894,1322,1748,2175,2600,2689,2790,3198,3618,3725,3854,3925,4008,7716,11564,11655"
+                    },
+                    "to": {
+                        "startLines": "6,12,18,24,30,36,42,43,44,49,54,56,58,59,60,111,163",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "255,674,1099,1527,1953,2380,2805,2894,2995,3403,3823,3930,4059,4130,4213,7921,11769",
+                        "endLines": "11,17,23,29,35,41,42,43,48,53,55,57,58,59,110,162,163",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "669,1094,1522,1948,2375,2800,2889,2990,3398,3818,3925,4054,4125,4208,7916,11764,11855"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Net1\\Desktop\\LiveTv\\rateMyApp\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "192",
+                        "endColumns": "62",
+                        "endOffsets": "250"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Net1\\Desktop\\LiveTv\\LiveTV\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "317"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}
